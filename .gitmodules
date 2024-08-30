@@ -1,21 +1,21 @@
 [submodule "CodeLabAPIProduto"]
 	path = CodeLabAPIProduto
-	url = https://github.com/mathtgm/codelab.git
+	url = https://github.com/mathtgm/CodeLabAPIProduto.git
 [submodule "CodeLabAPIEmail"]
 	path = CodeLabAPIEmail
-	url = https://github.com/mathtgm/codelab.git
+	url = https://github.com/mathtgm/CodeLabAPIEmail.git
 [submodule "CodeLabAPIFinanceiro"]
 	path = CodeLabAPIFinanceiro
-	url = https://github.com/mathtgm/codelab.git
+	url = https://github.com/mathtgm/CodeLabAPIFinanceiro.git
 [submodule "CodeLabAPIPessoa"]
 	path = CodeLabAPIPessoa
-	url = https://github.com/mathtgm/codelab.git
+	url = https://github.com/mathtgm/CodeLabAPIPessoa.git
 [submodule "CodeLabAPIUsuario"]
 	path = CodeLabAPIUsuario
-	url = https://github.com/mathtgm/codelab.git
+	url = https://github.com/mathtgm/CodeLabAPIUsuario.git
 [submodule "CodeLabServices"]
 	path = CodeLabServices
-	url = https://github.com/mathtgm/codelab.git
+	url = https://github.com/mathtgm/CodeLabServices.git
 [submodule "codelab-front"]
 	path = codelab-front
-	url = https://github.com/mathtgm/codelab.git
+	url = https://github.com/mathtgm/codelab-front.git
